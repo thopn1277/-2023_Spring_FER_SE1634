@@ -10,5 +10,8 @@
     "web-server"
   ],
   "author": "ThoPN",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
 }
